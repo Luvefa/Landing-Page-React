@@ -11,3 +11,13 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 1px;
+  width: 100%;
+  background-color: #414452;
+  color: white;
+  text-align: center;
+}
